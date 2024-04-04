@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="68.365" viewBox="0 0 86 68.365">
+  <g id="Group_144" data-name="Group 144" transform="translate(-182 -395)">
+    <path id="message-new1" d="M.2,8.332A8.144,8.144,0,0,1,8.144,2H57.009a8.144,8.144,0,0,1,7.941,6.333L32.576,28.118ZM0,12.982V41.91L23.63,27.422Zm27.531,16.83L.778,46.21a8.144,8.144,0,0,0,7.366,4.654H57.009a8.145,8.145,0,0,0,7.363-4.66l-26.754-16.4-5.041,3.083-5.045-3.083Zm13.992-2.386L65.153,41.91V12.982L41.523,27.422Z" transform="translate(182.5 412)" fill="#fff344" stroke="#707070" stroke-width="1"/>
+    <g id="Group_143" data-name="Group 143">
+      <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(234 395)" fill="red" stroke="#707070" stroke-width="1">
+        <circle cx="17" cy="17" r="17" stroke="none"/>
+        <circle cx="17" cy="17" r="16.5" fill="none"/>
+      </g>
+      <g id="Group_138" data-name="Group 138" transform="translate(0 -1.5)">
+        <line id="Line_15" data-name="Line 15" y2="18" transform="translate(251.5 401.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+        <g id="Rectangle_98" data-name="Rectangle 98" transform="translate(250 423)" fill="#fff" stroke="#fff" stroke-width="1">
+          <rect width="3" height="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="2" height="1" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

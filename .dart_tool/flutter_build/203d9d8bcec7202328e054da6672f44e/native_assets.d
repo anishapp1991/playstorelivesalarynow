@@ -1,0 +1,1 @@
+ C:\\Users\\Admin\\Desktop\\BackUP\\04\\03\\2024\\NewSalaryNow-main\\.dart_tool\\flutter_build\\203d9d8bcec7202328e054da6672f44e\\native_assets.yaml: 

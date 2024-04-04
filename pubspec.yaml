@@ -1,0 +1,125 @@
+name: salarynow
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 4.0.55+318
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  sms_autofill: ^2.3.1
+  cupertino_icons: ^1.0.2
+  flutter_onboard: ^2.0.0
+  flutter_svg: ^2.0.4
+  otp_text_field: ^1.1.3
+  flutter_gif: ^0.0.4
+  flutter_screenutil: ^5.7.0
+  flutter_bloc: ^8.1.2
+  lottie: ^2.3.1
+  dotted_border: ^2.0.0+3
+  dotted_line: ^3.1.0
+  logger: ^2.0.2+1
+  pretty_dio_logger: ^1.3.1
+  dio: ^5.1.1
+  retrofit: ^4.0.1
+  retrofit_generator: ^8.0.5
+  json_serializable: ^6.6.1
+  build_runner: ^2.3.3
+  json_annotation: ^4.8.0
+  email_validator: ^2.1.17
+  intl: ^0.18.0
+  get_storage: ^2.0.3
+  connectivity_plus: ^5.0.2
+  permission_handler: ^11.1.0
+  geolocator: ^10.0.1
+  geocoding: ^2.1.0
+  device_information: ^0.0.4
+  call_log: ^4.0.0
+  flutter_sms_inbox: ^1.0.2
+  fluttercontactpicker: ^4.7.0
+  image_picker: ^1.0.4
+  image_cropper: ^5.0.0
+  file_picker: ^6.1.1
+  cached_network_image: ^3.2.3
+  flutter_exit_app: ^1.1.2
+  webview_flutter: ^4.2.1
+  open_mail_app: ^0.4.5
+  another_flushbar: ^1.12.30
+  syncfusion_flutter_sliders: ^23.2.7
+  camera: ^0.10.5+5
+  smooth_page_indicator: ^1.1.0
+  safe_device: ^1.1.4
+  app_settings: ^5.1.1
+  firebase_core: ^2.14.0
+  cloud_firestore: ^4.8.1
+  firebase_dynamic_links: ^5.3.7
+  flutter_share: ^2.0.0
+  path_provider: ^2.0.15
+  accordion: ^2.5.1
+  firebase_messaging: ^14.6.3
+  share_plus: ^7.0.2
+  uuid: ^4.2.2
+  timeago: ^3.5.0
+  package_info_plus: ^5.0.1
+  pinput: ^3.0.1
+  double_back_to_close_app: ^2.1.0
+  flutter_file_downloader: ^1.1.2
+  url_launcher: ^6.1.10
+  firebase_crashlytics: ^3.3.5
+  uri_to_file: ^1.0.0
+  flutter_inappwebview: ^6.0.0-beta.24+1
+  image: ^4.1.3
+  firebase_analytics:
+  shared_preferences: ^2.0.6
+  android_play_install_referrer: ^0.3.0
+  google_sign_in:
+  firebase_auth:
+  in_app_review: ^2.0.8
+  liveness_detection_flutter_plugin: ^0.0.4
+  mnc_identifier_face: ^1.0.2
+  syncfusion_flutter_pdfviewer: ^23.2.7
+  flutter_tts: ^3.8.5
+  fluttertoast: ^8.1.2
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.1
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/images/req_doc/
+    - assets/images/profile/
+    - assets/images/dashboard/
+    - assets/images/bank_statement/
+    - assets/lottie/
+    - assets/icons/
+
+
+  fonts:
+    - family: roboto
+      fonts:
+        - asset: assets/fonts/roboto/Roboto-Light.ttf
+        - asset: assets/fonts/roboto/Roboto-Medium.ttf
+        - asset: assets/fonts/roboto/Roboto-Bold.ttf
+flutter_intl:
+  enabled: true
+
